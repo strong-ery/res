@@ -1,4 +1,4 @@
-![[LogoRES_Transparent.png]]
+![RES](../assets/LogoRES_Transparent.png)
 # Standards
 
 Your #1 priority while contributing to any resource should be finding the perfect balance between information density and information quality. 

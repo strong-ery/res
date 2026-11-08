@@ -1,4 +1,4 @@
-![[LogoRES_Transparent.png]]
+![RES](../assets/LogoRES_Transparent.png)
 The **RES** architecture is split into 5 carefully chosen categories, and where a page belongs depends on what it explains, not how big it is.
 
 # 1 - Architecture
@@ -11,7 +11,7 @@ The vertical slices, where each page follows a single feature (the Ocarina Song 
 
 # 3 - Blueprints
 
-Actionable steps for recreating a process that resulted in something, like `create-basic-actor` or `duplicate-npc`, and they lean on the first two categories for the "why" so the steps themselves stay clean. See [[example-blueprint]] for the structure.
+Actionable steps for recreating a process that resulted in something, like `create-basic-actor` or `duplicate-npc`, and they lean on the first two categories for the "why" so the steps themselves stay clean. See [example-blueprint](../template/3-blueprints/example-blueprint.md) for the structure.
 
 # 4 - References
 

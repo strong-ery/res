@@ -1,4 +1,4 @@
-![[LogoRES_Transparent.png]]
+![RES](../assets/LogoRES_Transparent.png)
 # Getting Started
 
 Storing information efficiently (in both the way you store AND retrieve it) is one of the hardest challenges to "solve" in any informative context, and there isn't just one single solution. 
@@ -13,7 +13,7 @@ RES doesn't pretend to be the one solution, it just gives every game the same sh
 2. Open `meta.md` and fill in the game, platform, and the versions and tools you're working with. Every claim in the project is only as good as the version it was verified on, so don't skip this.
 3. Delete the `example-` files from each folder once you've written your first real page of that type. They exist to show the structure, not to stay.
 
-Read [[layout]] before writing anything so you know where a page belongs, and [[standards]] so it reads like everything else in the project.
+Read [layout](layout.md) before writing anything so you know where a page belongs, and [standards](standards.md) so it reads like everything else in the project.
 
 # Contributing
 
